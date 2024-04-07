@@ -63,34 +63,6 @@
       ]
     },
     {
-      "id": 5,
-      "title": "Huawei P30",
-      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
-      "price": 499,
-      "discountPercentage": 10.58,
-      "rating": 4.09,
-      "stock": 32,
-      "brand": "Huawei",
-      "category": "smartphones",
-      "thumbnail": "https://opsg-img-cdn-gl.heytapimg.com/epb/202305/15/k8g8C104nA8S1hcF.png",
-      "images": ["https://opsg-img-cdn-gl.heytapimg.com/epb/202305/15/k8g8C104nA8S1hcF.png"
-      ]
-    },
-    {
-      "id": 6,
-      "title": "MacBook Pro",
-      "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
-      "price": 1749,
-      "discountPercentage": 11.02,
-      "rating": 4.57,
-      "stock": 83,
-      "brand": "APPle",
-      "category": "laptops",
-      "thumbnail": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_87801466_laptop-with-smart-phone.html&psig=AOvVaw3wpkoeUVWPehzoPwP4ZtFo&ust=1712564055749000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCND-lLXUr4UDFQAAAAAdAAAAABAE",
-      "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_87801466_laptop-with-smart-phone.html&psig=AOvVaw3wpkoeUVWPehzoPwP4ZtFo&ust=1712564055749000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCND-lLXUr4UDFQAAAAAdAAAAABAE"
-      ]
-    },
-    {
       "id": 7,
       "title": "Samsung Galaxy Book",
       "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
@@ -133,35 +105,7 @@
       "thumbnail": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fthe-best-laptop-and-cell-phone-pairings&psig=AOvVaw3wpkoeUVWPehzoPwP4ZtFo&ust=1712564055749000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCND-lLXUr4UDFQAAAAAdAAAAABAQ",
       "images": [
         "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fapple-laptop-phone&psig=AOvVaw3wpkoeUVWPehzoPwP4ZtFo&ust=1712564055749000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCND-lLXUr4UDFQAAAAAdAAAAABAK"]
-    },
-    {
-      "id": 10,
-      "title": "HP Pavilion 15-DK1056WM",
-      "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
-      "price": 1099,
-      "discountPercentage": 6.18,
-      "rating": 4.43,
-      "stock": 89,
-      "brand": "HP Pavilion",
-      "category": "laptops",
-      "thumbnail": "https://dummyjson.com/image/i/products/10/thumbnail.jpeg",
-      "images": [
-        "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fthe-best-laptop-and-cell-phone-pairings&psig=AOvVaw3wpkoeUVWPehzoPwP4ZtFo&ust=1712564055749000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCND-lLXUr4UDFQAAAAAdAAAAABAQ"]
-    },
-    {
-      "id": 11,
-      "title": "perfume Oil",
-      "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
-      "price": 13,
-      "discountPercentage": 8.4,
-      "rating": 4.26,
-      "stock": 65,
-      "brand": "Impression of Acqua Di Gio",
-      "category": "fragrances",
-      "thumbnail": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fthe-best-laptop-and-cell-phone-pairings&psig=AOvVaw3wpkoeUVWPehzoPwP4ZtFo&ust=1712564055749000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCND-lLXUr4UDFQAAAAAdAAAAABAQ",
-      "images": [
-        "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fapple-laptop-phone&psig=AOvVaw3wpkoeUVWPehzoPwP4ZtFo&ust=1712564055749000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCND-lLXUr4UDFQAAAAAdAAAAABAK"
-      ]
     }
+    
   ]
 }
